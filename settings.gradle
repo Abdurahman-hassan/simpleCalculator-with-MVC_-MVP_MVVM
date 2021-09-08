@@ -1,0 +1,2 @@
+rootProject.name = "simpleCalclatorWith_MVC_MVP_MVVM"
+include ':app'
